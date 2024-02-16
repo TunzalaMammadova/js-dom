@@ -1,0 +1,56 @@
+.light i {
+    color: rgba(219, 219, 214, 0.909);
+    font-size: 60px;
+ 
+}
+
+.light {
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    border: none;
+    background-color:transparent ;
+}
+
+.first-color {
+    background-color: yellow;
+}
+
+.second-color {
+    background-color: black;
+}
+
+.add{
+    margin-left: 300px;
+    width: 100px;
+}
+.delete{
+    margin-left: 20px;
+    width: 100px;
+}
+
+.input-text{
+    width: 600px;
+    margin-left: 300px;
+    border: 1px solid black;
+}
+
+.validation{
+    margin-left: 300px;
+}
+
+.list-group{
+    margin-left: 300px;
+    width: 600px;
+    
+}
+
+.btn1{
+    margin-left: 550px;
+    
+}
